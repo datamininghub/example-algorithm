@@ -1,0 +1,7 @@
+target/
+project/project/target
+.idea/
+dictionary.csv
+temp/
+transactions.csv
+output
